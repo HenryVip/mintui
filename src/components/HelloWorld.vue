@@ -20,7 +20,7 @@
 		name: 'HelloWorld',
 		data() {
 			return {
-				msg: 'great'
+				msg: 'xxxx'
 			}
 		},
 
